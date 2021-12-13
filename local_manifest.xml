@@ -3,7 +3,7 @@
 
  <!-- Trees -->
  <project path="device/samsung/j7elte" name="Moooebie/android_device_samsung_j7elte.git" remote="github" revision="octavi-11" />
- <project path="device/samsung/universal7580-common" name="FlominatorGD/android_device_samsung_universal7580-common.git" remote="github" revision="lineage-18.1" />
+ <project path="device/samsung/universal7580-common" name="FlominatorGD/android_device_samsung_universal7580-common.git" remote="github" revision="havoc-11" />
  <project path="vendor/samsung/" name="TheMuppets/proprietary_vendor_samsung.git" remote="github" revision="lineage-18.1" />
  <project path="kernel/samsung/universal7580" name="LineageOS/android_kernel_samsung_universal7580.git" remote="github" revision="lineage-18.1" />
  
